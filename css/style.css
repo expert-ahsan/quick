@@ -185,13 +185,14 @@ header {
     /* border: 1px solid red; */
     background-color: #008aff;
 }
-p.footer_text {
+.footer_text {
     font-size: 12px;
     text-align: center;
     padding: 25px 0px;
     color: white;
     word-spacing: 2px;
     letter-spacing: 3px;
+    margin: 0;
 }
 .f_p_span {
     font-weight: bold;
